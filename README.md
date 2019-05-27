@@ -8,4 +8,4 @@ Pythonの環境の構築、データ構造（リスト、numpy.array、pandas.da
 [講義資料](http://hirotaka-hachiya.hatenablog.com/entry/2019/05/26/212059)
 
 - Pythonのscikit-learnを用いた機械学習の演習：2時間  
-手書き文字画像分類と、受講者の進捗次第では価格変動予測も
+価格変動予測と手書き文字画像分類を題材に、教師あり学習の回帰と分類をscikit-learnを用いて実装します。
